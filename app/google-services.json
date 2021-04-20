@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304018478355",
+    "firebase_url": "https://pickmeup-948ba-default-rtdb.firebaseio.com",
+    "project_id": "pickmeup-948ba",
+    "storage_bucket": "pickmeup-948ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304018478355:android:ced0136483168f24a036e6",
+        "android_client_info": {
+          "package_name": "com.example.pickmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304018478355-n8ttusfplhrflhfg1f3bbvk3vrccm986.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pickmeup",
+            "certificate_hash": "78c3d48baa49c2a72569dc592e3c7c047b8dfdc9"
+          }
+        },
+        {
+          "client_id": "304018478355-dfnj2m143c7v7pggfr6ap2hnj7jp3c0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVbIVB8d8pjwZsT-4jlofoPCqMDlS0ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304018478355-dfnj2m143c7v7pggfr6ap2hnj7jp3c0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

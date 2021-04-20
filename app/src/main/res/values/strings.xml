@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pick Me Up</string>
+    <string name="signup">Driver</string>
+    <string name="usignup">Customer</string>
+    <string name="Login">LogIn</string>
+    <string name="Register">Register</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="title_activity_drivers_map">Map</string>
+    <string name="LogOut">logout</string>
+    <string name="pickup">Call Ambulance</string>
+    <string name="Settings">Settings</string>
+    <string name="Confirm">Confirm</string>
+    <string name="GoBAck">Go Back</string>
+    <string name="title_activity_lll">Map</string>
+    <string name="title_activity_hospital_maps">Map</string>
+</resources>
